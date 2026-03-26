@@ -1,7 +1,7 @@
 # SQL Data Warehouse Project
 
 ## Overview
-This project demonstrates the implementation of a **modern Data Warehouse architecture using SQL**, following the **Bronze, Silver, and Gold layered approach** commonly used in modern data platforms.
+This project demonstrates the implementation of a **modern Data Warehouse architecture using SQL**, following the **Bronze, Silver and Gold layered approach** commonly used in modern data platforms.
 
 The goal of this project is to simulate a real-world data engineering workflow including:
 
@@ -45,7 +45,6 @@ Contains **raw ingested data** directly loaded from source systems.
 **Characteristics:**
 * minimal transformations
 * raw data storage
-* historical traceability
 
 ### Silver Layer (Cleaned Data)
 Performs **data cleansing and transformation**.
