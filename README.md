@@ -1,7 +1,7 @@
-# SQL Data Warehouse Project
+# SQL Data Warehouse 
 
 ## Overview
-This project demonstrates the implementation of a **modern Data Warehouse architecture using SQL**, following the **Bronze, Silver and Gold layered approach** commonly used in modern data platforms.
+This repository demonstrates the implementation of a **modern Data Warehouse architecture using SQL**, following the **Bronze, Silver and Gold layered approach** commonly used in modern data platforms.
 
 The goal of this project is to simulate a real-world data engineering workflow including:
 
@@ -75,5 +75,5 @@ Checks are implemented for both **Silver and Gold layers**.
 
 ---
 
-## Tools Used
+## Tools & Technologies
 - SQL Server Management Studio 22
